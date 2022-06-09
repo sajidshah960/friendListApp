@@ -75,3 +75,7 @@ end
 
 
 gem 'devise', '~> 4.8', '>= 4.8.1'
+
+
+
+gem 'byebug'
